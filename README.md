@@ -17,7 +17,7 @@ Your application should implement the same basic functionality, though note that
 
 ## Approach & Efficiency
 
-- n/a
+- Structured the Header, Counter, and Footer together in the App file. Then rendered the App file in the Index file. 
 
 # API
 
