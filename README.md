@@ -29,4 +29,4 @@ Your application should implement the same basic functionality, though note that
 - Click the `Minus` and `Plus` buttons to decrement or increment the counter which is initialized at zero
 
 ## UML
-![lab-121-uml](https://github.com/daniel-nguyen-401-advanced-javascript/lab-21/blob/master/lab21UML.png)
+![lab-21-uml](https://github.com/daniel-nguyen-401-advanced-javascript/lab-21/blob/master/lab21UML.png)
